@@ -7,7 +7,7 @@
  * @type {{wordPressUrl: string}}
  */
 const config = {
-  wordPressUrl: `http://alexandraspalato.com/tabor`,
+  wordPressUrl: `https://nationalyoga.com/headless`,
 }
 
 module.exports = config

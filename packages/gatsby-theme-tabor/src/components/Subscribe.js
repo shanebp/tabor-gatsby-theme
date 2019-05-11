@@ -8,12 +8,7 @@ const Subscribe = () => (
           <h6 className="h2">Subscribe Now</h6>
           <div className="textwidget">
             <p>
-              This is where you’d add your
-              <a href="http://shareasale.com/r.cfm?b=601672&amp;u=1143612&amp;m=49337&amp;urllink=&amp;afftrack=">
-                OptinMonster
-              </a>
-              , or MailChimp for WordPress widgets. I don’t want to give you the
-              API credentials to my OptinMonster account now do I.{' '}
+              This is where you could add widgets, etc.{' '}
               <img
                 draggable="false"
                 className="emoji"

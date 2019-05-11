@@ -13,7 +13,7 @@ const SocialNav = () => (
           id="menu-item-351"
           className="menu-item menu-item-type-custom menu-item-object-custom menu-item-351"
         >
-          <a href="http://twitter.com/richard_tabor">
+          <a href="http://twitter.com/you">
             <span className="screen-reader-text">Twitter</span>
             <Twitter />
           </a>
@@ -22,7 +22,7 @@ const SocialNav = () => (
           id="menu-item-352"
           className="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"
         >
-          <a href="http://dribbble.com/richtabor">
+          <a href="http://dribbble.com/you">
             <span className="screen-reader-text">Dribbble</span>
             <Dribble />
           </a>
@@ -31,7 +31,7 @@ const SocialNav = () => (
           id="menu-item-353"
           className="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"
         >
-          <a href="https://medium.com/@richtabor">
+          <a href="https://medium.com/@you">
             <span className="screen-reader-text">Medium</span>
             <Medium />
           </a>
